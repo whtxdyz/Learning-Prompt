@@ -32,7 +32,7 @@ sidebar_position: 0
 
 章节推荐：
 
-1. [如何使用 Midjourney](midjourney/mj-tutorial-basics/how-to-use-midjourney)
+1. [如何使用 Midjourney](midjourney/mj-tutorial-basics/how-to-use-midjourney.md)
 2. [Midjourney Prompt 基本结构](midjourney/mj-tutorial-basics/midjourney-basics-prompt)
 3. [Midjourney Prompt 常用参数](midjourney/mj-tutorial-basics/midjourney-common-parameters)
 4. [Text Prompt —— 插画](midjourney/mj-tutorial-text-prompt/scenario-4-illustrations)
