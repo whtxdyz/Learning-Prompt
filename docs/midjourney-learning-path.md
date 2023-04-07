@@ -33,22 +33,22 @@ sidebar_position: 0
 章节推荐：
 
 1. [如何使用 Midjourney](midjourney/mj-tutorial-basics/how-to-use-midjourney.md)
-2. [Midjourney Prompt 基本结构](midjourney/mj-tutorial-basics/midjourney-basics-prompt)
-3. [Midjourney Prompt 常用参数](midjourney/mj-tutorial-basics/midjourney-common-parameters)
-4. [Text Prompt —— 插画](midjourney/mj-tutorial-text-prompt/scenario-4-illustrations)
-5. [Text Prompt —— 游戏](midjourney/mj-tutorial-text-prompt/scenario-6-game)
-6. [Text Prompt —— 框架总结](midjourney/mj-tutorial-text-prompt/framework-summary)
+2. [Midjourney Prompt 基本结构](midjourney/mj-tutorial-basics/midjourney-basics-prompt.md)
+3. [Midjourney Prompt 常用参数](midjourney/mj-tutorial-basics/midjourney-common-parameters.md)
+4. [Text Prompt —— 插画](midjourney/mj-tutorial-text-prompt/scenario-4-illustrations.md)
+5. [Text Prompt —— 游戏](midjourney/mj-tutorial-text-prompt/scenario-6-game.md)
+6. [Text Prompt —— 框架总结](midjourney/mj-tutorial-text-prompt/framework-summary.md)
 
 ## 如果你想系统学习
 
 我个人觉得学习 Midjourney 最好的方式是：
 
 1. 如果你的工作不涉及生成图片，不妨挑自己感兴趣的内容，然后实践一下。以下是必看的章节：
-   1. [如何使用 Midjourney](midjourney/mj-tutorial-basics/how-to-use-midjourney)
-   2. [Midjourney Prompt 基本结构](midjourney/mj-tutorial-basics/midjourney-basics-prompt)
-   3. [Midjourney Prompt 常用参数](midjourney/mj-tutorial-basics/midjourney-common-parameters)
-   4. [Text Prompt —— 框架总结](midjourney/mj-tutorial-text-prompt/framework-summary)
-   5. [Midjourney 官方 FAQ](midjourney/mj-tutorial-extras/midjourney-official-faq)
+   1. [如何使用 Midjourney](midjourney/mj-tutorial-basics/how-to-use-midjourney.md)
+   2. [Midjourney Prompt 基本结构](midjourney/mj-tutorial-basics/midjourney-basics-prompt.md)
+   3. [Midjourney Prompt 常用参数](midjourney/mj-tutorial-basics/midjourney-common-parameters.md)
+   4. [Text Prompt —— 框架总结](midjourney/mj-tutorial-text-prompt/framework-summary.md)
+   5. [Midjourney 官方 FAQ](midjourney/mj-tutorial-extras/midjourney-official-faq.md)
 2. 如果你的工作涉及生成图片，就挑跟自己工作内容相关的章节学习即可。而且大胆地在工作流中使用。木匠不会因为电动工具的出现而被淘汰，反而善用工具的木匠，收入更高了。
 
 另外，根据我的经验，临摹别人的画作，是最好的学习方式，当你看到一个别人生成的图片，非常不错，不妨先自己想想，它的 prompt 是什么？
@@ -62,24 +62,24 @@ sidebar_position: 0
 我将各章节里的技巧归纳了下：
 
 - 学习 & 使用方法：
-   - [技巧一：临摹](midjourney/mj-tutorial-tips/tips-1-imitation)
-   - [技巧二：多实验](midjourney/mj-tutorial-tips/tips-2-experiment)
-   - [技巧十：控制变量法渐进优化](midjourney/mj-tutorial-tips/tips-10-control-variables-method)
+   - [技巧一：临摹](midjourney/mj-tutorial-tips/tips-1-imitation.md)
+   - [技巧二：多实验](midjourney/mj-tutorial-tips/tips-2-experiment.md)
+   - [技巧十：控制变量法渐进优化](midjourney/mj-tutorial-tips/tips-10-control-variables-method.md)
 - 高级功能使用方法：
-   - [技巧三：善用 Image2Image 功能](midjourney/mj-tutorial-tips/tips-3-img2img)
-   - [技巧六：善用 no 参数，去掉不想要的元素](midjourney/mj-tutorial-tips/tips-6-no-parameter)
-   - [技巧七：多参数同时使用](midjourney/mj-tutorial-tips/tips-7-multi-parameters)
-   - [技巧八：使用 Seed 参数对图进行二次修改](midjourney/mj-tutorial-tips/tips-8-seed-parameter)
-   - [技巧九：神秘的 belend 功能](midjourney/mj-tutorial-tips/tips-9-blend)
-   - [技巧十二：增加权重](midjourney/mj-tutorial-tips/tips-12-increase-weight)
-   - [技巧十七：看到别人的图，想知道它的 prompt 是啥](midjourney/mj-tutorial-tips/tips-17-describe)
+   - [技巧三：善用 Image2Image 功能](midjourney/mj-tutorial-tips/tips-3-img2img.md)
+   - [技巧六：善用 no 参数，去掉不想要的元素](midjourney/mj-tutorial-tips/tips-6-no-parameter.md)
+   - [技巧七：多参数同时使用](midjourney/mj-tutorial-tips/tips-7-multi-parameters.md)
+   - [技巧八：使用 Seed 参数对图进行二次修改](midjourney/mj-tutorial-tips/tips-8-seed-parameter.md)
+   - [技巧九：神秘的 belend 功能](midjourney/mj-tutorial-tips/tips-9-blend.md)
+   - [技巧十二：增加权重](midjourney/mj-tutorial-tips/tips-12-increase-weight.md)
+   - [技巧十七：看到别人的图，想知道它的 prompt 是啥](midjourney/mj-tutorial-tips/tips-17-describe.md)
 - 风格词技巧：
-   - [技巧四：增加风格——艺术运动](midjourney/mj-tutorial-tips/tips-4-art-movement)
-   - [技巧五：增加风格——艺术家](midjourney/mj-tutorial-tips/tips-5-artist)
-   - [技巧十一：增加风格——国家](midjourney/mj-tutorial-tips/tips-11-country)
-   - [技巧十四：增加风格——年份](midjourney/mj-tutorial-tips/tips-14-year)
+   - [技巧四：增加风格——艺术运动](midjourney/mj-tutorial-tips/tips-4-art-movement.md)
+   - [技巧五：增加风格——艺术家](midjourney/mj-tutorial-tips/tips-5-artist.md)
+   - [技巧十一：增加风格——国家](midjourney/mj-tutorial-tips/tips-11-country.md)
+   - [技巧十四：增加风格——年份](midjourney/mj-tutorial-tips/tips-14-year.md)
 - 其他技巧：
-   - [技巧十三：善用灯光](midjourney/mj-tutorial-tips/tips-13-lighting)
-   - [技巧十五：如何让 Midjourney 生成的人更具有多样性？](midjourney/mj-tutorial-tips/tips-15-human-diversity)
-   - [技巧十六：改变相机与镜头](midjourney/mj-tutorial-tips/tips-16-camera-lens)
+   - [技巧十三：善用灯光](midjourney/mj-tutorial-tips/tips-13-lighting.md)
+   - [技巧十五：如何让 Midjourney 生成的人更具有多样性？](midjourney/mj-tutorial-tips/tips-15-human-diversity.md)
+   - [技巧十六：改变相机与镜头](midjourney/mj-tutorial-tips/tips-16-camera-lens.md)
 
